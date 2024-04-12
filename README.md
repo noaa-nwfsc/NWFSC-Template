@@ -9,7 +9,7 @@ If you have NMFS collaborators (i.e. have noaa.gov email) on your repository who
 1) Update your `README.md` file to include the disclaimer and an open access license. See below for a description of licenses.
 2) Add a description and info on who created the content (otherwise the org managers will not know who to contact).
 3) Add tags (far right side on repo) to help users find repositories. See the other repositories for examples.
-4) Add an open LICENSE file. For government work, we are required to use an open LICENSE. If non-government FTEs were contributors and the repository does not yet have an open license on it, make sure all parties agree before applying an open source license. 
+4) Add an open LICENSE file. For government work, we are required to use an open LICENSE. If non-government FTEs were contributors and the repository does not yet have an open license on it, make sure all parties agree before applying an open source license. For data/documentation use CC0 and for code use preferrably Apache 2.0. Both are public domain type licenses.
 5) Add the file `.github/workflows/secretSCAN.yml`. This will check for token and keys that are accidentally committed to a repository.
 
 ## For new repositories in noaa-nwfsc organization
