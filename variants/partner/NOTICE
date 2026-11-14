@@ -1,0 +1,30 @@
+[PROJECT NAME]
+Copyright [YEAR] [PARTNER LEGAL NAME]
+
+This software was developed in partnership with the U.S. National Oceanic
+and Atmospheric Administration (NOAA) under [AGREEMENT TYPE, e.g. CRADA /
+MOU / OTA / international agreement] [AGREEMENT NUMBER]. See INTENT.md for
+how copyright and licensing apply.
+
+--------------------------------------------------------------------------
+Scope
+--------------------------------------------------------------------------
+Source code in this repository, including comments and docstrings within
+it, is licensed under [LICENSE NAMED IN THE AGREEMENT]
+(LICENSE.md). The copyright notice above
+applies to the source code.
+
+Documentation released with this project is dedicated to the public domain
+under CC0 1.0 Universal (LICENSE-DOCS.md).
+
+--------------------------------------------------------------------------
+Third-party material
+--------------------------------------------------------------------------
+This project includes or adapts the following third-party software or
+documentation. Their original licenses and copyright notices are retained
+alongside the material (or in a THIRD_PARTY/ directory) and are reproduced
+here as required. CC0 does not apply to third-party documentation.
+
+- [Component name] ([URL]) — [SPDX license ID], Copyright [year] [holder]
+
+(Delete this section if the project includes no third-party material.)
